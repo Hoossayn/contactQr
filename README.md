@@ -3,7 +3,7 @@
 
 After users enter their details the generated Qr code looks something like this
 
-![generated qr code](screenshot/Screenshot_20191229-215036.png)
+![generated qr code](contactQr/app/screenshot/Screenshot_20191229-215036.png)
 
 Users are also allowed to edit thier already saved contact
 
