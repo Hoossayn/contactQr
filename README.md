@@ -3,7 +3,7 @@
 
 After users enter their details the generated Qr code looks something like this
 
-![generated qr code](contactQr/app/screenshot/Screenshot_20191229-215036.png)
+file:///home/hoossayn/Pictures/Screenshot%20from%202019-08-05%2014-37-19.png
 
 Users are also allowed to edit thier already saved contact
 
