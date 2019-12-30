@@ -3,7 +3,7 @@
 
 After users enter their details the generated Qr code looks something like this
 
-file:///home/hoossayn/Pictures/Screenshot%20from%202019-08-05%2014-37-19.png
+![Screenshot from 2019-08-05 14-37-19](https://user-images.githubusercontent.com/35276272/71582554-0531b600-2b0b-11ea-906c-b97634cc7911.png)
 
 Users are also allowed to edit thier already saved contact
 
